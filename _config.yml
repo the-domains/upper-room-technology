@@ -1,0 +1,28 @@
+name: Upper Room Technology
+favicon: null
+layout_spectrum: 0.7340642360504717
+typography_spectrum: 0.10838832915760577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3506753796245903
+  lightness: 0.46985785220749676
+  saturation: 0.46731933299452066
+  rhythmicContrast: 0.8308680814225227
+purpose: []
